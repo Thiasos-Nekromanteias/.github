@@ -1,5 +1,5 @@
-<h1 align="center">Αβρακάδabra 🪄, Here's Θίασος Νεκρομαντείας</h1>
-<h3 align="center">Welcome To this Θίασος ~</h3>
+<h1 align="center">Αβρακάδabra 🪄, Εδώ είναι Θίασος Νεκρομαντείας</h1>
+<h3 align="center">Καλώς ορίσατε σε αυτόν τον Θίασο ~</h3>
 </br>
 
 ## About Here 🎩

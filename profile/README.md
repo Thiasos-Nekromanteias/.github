@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, Here's ΘΙΑΣΟΣ ΝΕΚΡΟΜΑΝΤΕΙΑΣ</h1>
+<h1 align="center">Αβρακάδabra 🪄, Here's ΘΙΑΣΟΣ ΝΕΚΡΟΜΑΝΤΕΙΑΣ</h1>
 <h3 align="center">Welcome To this ΘΙΑΣΟΣ ~</h3>
 </br>
 
@@ -8,7 +8,7 @@
 ## Mission ✝️
 **复活那些死去的灵魂，重塑他们失落的遺珍**
 
-## Contact Here 📢
+## Contact Here 👻
 **Github: [https://github.com/Thiasos-Nekromanteias](https://github.com/Thiasos-Nekromanteias)**
 
 •ᴗ•
